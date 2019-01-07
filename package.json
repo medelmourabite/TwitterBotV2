@@ -1,0 +1,22 @@
+{
+  "name": "qse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "filenamify-url": "^1.0.0",
+    "mongodb": "^3.1.10",
+    "request": "^2.88.0",
+    "swig": "^1.4.2"
+  }
+}
